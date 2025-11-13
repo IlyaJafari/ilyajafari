@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey, I'm Ilya
 
-<!--
-**IlyaJafari/ilyajafari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Student** 
+💻 **Front-End Developer** passionate about crafting smooth user experiences and creative web designs.  
+🌱 Currently exploring **React** & **Next.js**  
+⚡ I love bringing ideas to life through code and design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+**Languages:**  
+`HTML` • `CSS` • `JavaScript` • `TypeScript`
+
+**Frameworks & Libraries:**  
+`React` • `Next.js` • `Tailwind CSS`
+
+**Tools & Others:**  
+`Git` • `VS Code` • `Figma` • `Node.js (basics)`
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://www.linkedin.com/in/ilya-jafari/)](#)
+[![Email](jrilya18@gmail.com)](#)
